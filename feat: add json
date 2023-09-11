@@ -1,0 +1,110 @@
+{
+  "Brasil": [
+    {
+      "Cantor": "Roberto Carlos",
+      "Top Música": "Detalhes",
+      "Último Prêmio": "Prêmio Grammy Latino de Excelência Musical (2015)"
+    },
+    {
+      "Cantor": "Caetano Veloso",
+      "Top Música": "Sozinho",
+      "Último Prêmio": "Prêmio Grammy Latino de Melhor Álbum de Música Popular Brasileira (2019)"
+    },
+    {
+      "Cantor": "Gilberto Gil",
+      "Top Música": "Toda Menina Baiana",
+      "Último Prêmio": "Prêmio Grammy Latino de Melhor Álbum de Música de Raízes em Língua Portuguesa (2018)"
+    },
+    {
+      "Cantor": "Ivete Sangalo",
+      "Top Música": "Sorte Grande",
+      "Último Prêmio": "Prêmio Grammy Latino de Melhor Álbum de Música de Raízes em Língua Portuguesa (2019)"
+    },
+    {
+      "Cantor": "Anitta",
+      "Top Música": "Vai Malandra",
+      "Último Prêmio": "Prêmio MTV Europe Music Award de Melhor Artista Brasileiro (2020)"
+    }
+  ],
+  "Japão": [
+    {
+      "Cantor": "Hikaru Utada",
+      "Top Música": "First Love",
+      "Último Prêmio": "N/A (Até setembro de 2021)"
+    },
+    {
+      "Cantor": "Arashi",
+      "Top Música": "Love so sweet",
+      "Último Prêmio": "N/A (Até setembro de 2021)"
+    },
+    {
+      "Cantor": "Namie Amuro",
+      "Top Música": "CAN YOU CELEBRATE?",
+      "Último Prêmio": "N/A (Até setembro de 2021)"
+    },
+    {
+      "Cantor": "B'z",
+      "Top Música": "Don't Leave Me",
+      "Último Prêmio": "N/A (Até setembro de 2021)"
+    },
+    {
+      "Cantor": "SMAP",
+      "Top Música": "Sekai ni Hitotsu Dake no Hana",
+      "Último Prêmio": "N/A (Até setembro de 2021)"
+    }
+  ],
+  "Estados Unidos": [
+    {
+      "Cantor": "Beyoncé",
+      "Top Música": "Single Ladies (Put a Ring on It)",
+      "Último Prêmio": "Prêmio BET Award de Melhor Artista Feminina de R&B/Pop (2020)"
+    },
+    {
+      "Cantor": "Taylor Swift",
+      "Top Música": "Love Story",
+      "Último Prêmio": "Prêmio Grammy de Álbum do Ano por 'Folklore' (2021)"
+    },
+    {
+      "Cantor": "Drake",
+      "Top Música": "God's Plan",
+      "Último Prêmio": "Prêmio Billboard Music Award de Melhor Artista Masculino (2020)"
+    },
+    {
+      "Cantor": "Ariana Grande",
+      "Top Música": "Thank U, Next",
+      "Último Prêmio": "Prêmio Grammy de Melhor Performance de Pop Solo (2020)"
+    },
+    {
+      "Cantor": "Ed Sheeran",
+      "Top Música": "Shape of You",
+      "Último Prêmio": "Prêmio Grammy de Melhor Álbum Pop Vocal por 'No.6 Collaborations Project' (2020)"
+    }
+  ],
+  "Coreia do Sul": [
+    {
+      "Cantor": "BTS",
+      "Top Música": "Dynamite",
+      "Último Prêmio": "Prêmio Billboard Music Award de Melhor Artista em Vendas Digitais (2021)"
+    },
+    {
+      "Cantor": "BLACKPINK",
+      "Top Música": "DDU-DU DDU-DU",
+      "Último Prêmio": "Prêmio MTV Europe Music Award de Melhor Grupo (2020)"
+    },
+    {
+      "Cantor": "EXO",
+      "Top Música": "Love Shot",
+      "Último Prêmio": "Prêmio Mnet Asian Music Award de Artista do Ano (2019)"
+    },
+    {
+      "Cantor": "TWICE",
+      "Top Música": "Feel Special",
+      "Último Prêmio": "Prêmio Golden Disc de Álbum do Ano (2020)"
+    },
+    {
+      "Cantor": "GOT7",
+      "Top Música": "Not by the Moon",
+      "Último Prêmio": "N/A (Até setembro de 2021)"
+    }
+  ]
+}
